@@ -7,7 +7,7 @@
 
 body {
     font-family: Arial, sans-serif;
-    background-color: #f0f0f0;
+    background-color: #2b2323;
 }
 
 /* Encabezado (header) y barra de navegación (nav) */
@@ -34,6 +34,7 @@ nav a {
 }
 
 .title{
+    color: white;
     text-align: center;
     margin-bottom: 10px;
 }
