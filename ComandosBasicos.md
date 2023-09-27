@@ -9,8 +9,11 @@
 ```git commit -m "mensaje"```
 
 ## Subir a github o a otro repositorio remoto
-``` git remote add origin https://github.com/juandtap/nombredelproyecto.git```
+``` git remote add origin https://github.com/juandtap/nombredelproyecto.git``` -> se hace solo una vez
+
+
 ```git push -u origin master```
+
 __'master' es el nombre de la rama/branch__
 
 ## Ver cambios (ver si es que hay que hacer pull)
